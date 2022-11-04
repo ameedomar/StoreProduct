@@ -1,0 +1,4 @@
+@mixin box-orient($value) {
+    -webkit-box-orient: $value;
+    -moz-box-orient: $value;
+}
